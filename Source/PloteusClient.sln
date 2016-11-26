@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PloteusTR.Client", "PloteusTR.Client\PloteusTR.Client.csproj", "{FA64A5A8-F070-4006-BDB7-E03E7A1A694D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ploteus.TR.Client.Tests", "Ploteus.TR.Client.Tests\Ploteus.TR.Client.Tests.csproj", "{E9140E70-C636-4E3F-B288-D8B75301F147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA64A5A8-F070-4006-BDB7-E03E7A1A694D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA64A5A8-F070-4006-BDB7-E03E7A1A694D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA64A5A8-F070-4006-BDB7-E03E7A1A694D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA64A5A8-F070-4006-BDB7-E03E7A1A694D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9140E70-C636-4E3F-B288-D8B75301F147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9140E70-C636-4E3F-B288-D8B75301F147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9140E70-C636-4E3F-B288-D8B75301F147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9140E70-C636-4E3F-B288-D8B75301F147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
